@@ -1,0 +1,7 @@
+---
+title: "Miguel Beynaerts"
+---
+
+![](images/468226990_10235378434869883_8662122818783799866_n-01.jpg){fig-align="left" width="500"}
+
+I am a PhD student in statistics at the Data Science Institute of Hasselt University. Here I am part of the Centre of Statistics (CENSTAT) and the Simulation Models of Infectious Disease (SIMID) groups.
